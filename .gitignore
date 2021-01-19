@@ -7,6 +7,16 @@ yarn-error.log*
 firebase-debug.log*
 firebase-debug.*.log*
 
+#para descartar todos los archivos
+images/
+inc/
+Docs/
+
+#para no ignorar la carpeta así como el archivo .gitkeep pero si los demás 
+#Portafolio_V1.0/images/*jpg 
+#Portafolio_V1.0/images/logo.png
+#!images/.gitkeep
+
 # Firebase cache
 .firebase/
 
