@@ -4,14 +4,11 @@ Aquí, estaré agregando cambios y actualizando características del portafolio 
 ##Plantilla de codigo libre utilizada. 👀
 Esta es la platilla que utilizo en mi portafolio personal moderno y limpio. Su nombre es KARDS y Tiene muchas características interesantes que se encuentran en las plantillas premium. Tiene elementos de la línea de tiempo, sección de estadísticas, barras de habilidades, formulario de trabajo ajax, validación de formulario de interfaz, una sección de cartera para mostrar sus trabajos y muchos más. Se ve muy bien en todos los dispositivos, desde el móvil hasta el escritorio. También está listo para retina, por lo que su sitio se verá nítido y nítido en cualquier dispositivo.
 
-###Portafolio
+##Portada:
 
-Image:
+![](https://github.com/DRACKSBOYVEVO/Proyect-Portfolio/blob/master/cover/Portfolio_cover.png)
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-
-> Follow your heart.
-
+> sigue tú corazón.
 
 FUENTES Y CRÉDITOS:
 
