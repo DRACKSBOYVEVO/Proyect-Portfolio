@@ -6,9 +6,9 @@ Esta es la platilla que utilizo en mi portafolio personal moderno y limpio. Su n
 
 ###Portafolio
 
-Image:
+Vista previa: 
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/DRACKSBOYVEVO/Proyect-Portfolio/images/Portfolio_cover.png)
 
 > Follow your heart.
 
